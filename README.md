@@ -14,3 +14,6 @@ The line follower robot uses two sensors to detect a line on the ground and adju
 - Turns right when only the left sensor detects the line.
 - Turns left when only the right sensor detects the line.
 - Stops when neither sensor detects the line.
+
+## Circuit
+![circuit](circuit.png)
